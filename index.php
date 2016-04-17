@@ -1,9 +1,9 @@
 <?php 
 echo 'hello world';
-echo 'i success';
-echo 'hahah';
 
-echo 'hello world';
-echo 'i success';
-echo 'hahah';
-echo 'hadfklak';
+//最常写的函数
+function P($arr){
+	echo "<pre>";
+	print_r($arr);
+	echo "</pre>";
+}
