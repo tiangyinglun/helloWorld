@@ -7,3 +7,13 @@ function P($arr){
 	print_r($arr);
 	echo "</pre>";
 }
+//多维数组转一维
+function manyToOne($data){
+	$dataRow=array();
+	if($data){
+		foreach($data as $val){
+             $dataRow[]=$val;
+		}
+	}
+	return $dataRow;
+}
