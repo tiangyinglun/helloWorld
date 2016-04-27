@@ -1,5 +1,12 @@
 <?php 
 
-$a=array(1,2,3,4,4,35);
+ function getData($data){
+   if(!$data){
+   	foreach($data as $val){
+   		echo $val;
+   	}
+   }
+ }
 
-echo count($a);
+ $arr=[1,2,3,4,5,6];
+ getData($arr);
