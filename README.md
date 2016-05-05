@@ -11,8 +11,13 @@ tell me why
 这是为啥
 我一定可以的
 加油
+<<<<<<< Updated upstream
 我是好孩子
 #加油啊
+=======
+kak你是好样的
+加油啊
+>>>>>>> Stashed changes
 
 
 
