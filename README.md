@@ -1,5 +1,6 @@
 # helloWorld
 练习使用git
+<<<<<<< HEAD
 #为啥还没有合并啊
 tell me why
 #github觉得挺好玩的
@@ -29,3 +30,7 @@ kak你是好样的
 
 
 
+=======
+#世界一直去，回忆这美丽
+echo hello world
+>>>>>>> 58021b96b831e656d17150355d2439588b72e6f4
