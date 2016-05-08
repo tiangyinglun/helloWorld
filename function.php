@@ -9,5 +9,9 @@ function array2One($data){
 	}
 	return $arr;
 }
+//hellow
+function hello(){
+	echo "hello world";
+}
 
 
